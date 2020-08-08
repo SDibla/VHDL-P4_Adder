@@ -1,4 +1,6 @@
-# Pentium 4 adder
+# Pentium 4 adder 
+
+The adder has also the possibility to perform the addition or substraction.
 
 P4 adder is based on two substructures a carry generator and a sum generator. 
 
